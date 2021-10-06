@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/LAPTOP_data/FPGA/Project/Vending_machine/mytest_isim_beh.exe" -prj "D:/LAPTOP_data/FPGA/Project/Vending_machine/mytest_beh.prj" "work.mytest" 
